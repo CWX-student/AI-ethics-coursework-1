@@ -5,3 +5,5 @@ The main task of the assignment is to study a model selection procedure that tak
 account accuracy and fairness metrics when training the machine learning models. The task is
 to compare standard machine learning models versus fairness-aware machine learning models
 with the following model selection criteria: most accurate, most fair, and most accurate & fair.
+
+There are difference between the report and the results of running this code as there are some changes on the current code. 
